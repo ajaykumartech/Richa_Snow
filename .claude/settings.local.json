@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:snowplanet-f4944.firebaseapp.com)",
+      "Bash(npm run *)",
+      "Bash(open http://localhost:5173/)"
+    ]
+  }
+}
