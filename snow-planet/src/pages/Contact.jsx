@@ -5,8 +5,8 @@ import { LinkedInIcon, YouTubeIcon, FacebookIcon } from '../components/SocialIco
 const offices = [
   {
     country: '🇮🇳 India',
-    city: 'Hyderabad (HQ)',
-    address: 'HITEC City, Hyderabad, Telangana 500081',
+    city: 'New Delhi (HQ)',
+    address: '24, Rajdhani Enclave, Pitampura, New Delhi 110034',
     phone: '+91 847 096 7420',
     email: 'info@servicenowplanet.com',
     hours: 'Mon–Sat, 9 AM – 7 PM IST',
